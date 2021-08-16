@@ -1,5 +1,9 @@
 # hello-world
 My first repository
+This is where my adventure begins...
+I am new here and I hope I can land a career in Software engineering/developer/devops soon...
 
-I am new here and I hope I can land a career in Software engineering/developer/devops.
+I love automation and scripting.. creating code that works...
+
+
 
